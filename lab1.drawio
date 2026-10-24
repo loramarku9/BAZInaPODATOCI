@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="yvhxziZibp4SlgBl2_t6">
-    <mxGraphModel dx="2895" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3147" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eh692rn3G8-YDrxsopdS-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" value="ID" vertex="1">
-          <mxGeometry height="40" width="100" x="-170" y="200" as="geometry" />
+          <mxGeometry height="40" width="100" x="-150" y="250" as="geometry" />
         </mxCell>
         <mxCell id="Eh692rn3G8-YDrxsopdS-35" edge="1" parent="1" source="Eh692rn3G8-YDrxsopdS-31" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Eh692rn3G8-YDrxsopdS-28">
           <mxGeometry relative="1" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Eh692rn3G8-YDrxsopdS-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="POVRSHINA" vertex="1">
-          <mxGeometry height="40" width="100" x="-180" y="260" as="geometry" />
+          <mxGeometry height="40" width="100" x="-170" y="310" as="geometry" />
         </mxCell>
         <mxCell id="Eh692rn3G8-YDrxsopdS-41" edge="1" parent="1" source="Eh692rn3G8-YDrxsopdS-36" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Eh692rn3G8-YDrxsopdS-31">
           <mxGeometry relative="1" as="geometry" />
@@ -599,6 +599,12 @@
         </mxCell>
         <mxCell id="Eh692rn3G8-YDrxsopdS-205" parent="1" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" value="SRABOTEN" vertex="1">
           <mxGeometry height="60" width="120" x="-350" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh692rn3G8-YDrxsopdS-211" edge="1" parent="1" source="Eh692rn3G8-YDrxsopdS-210" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="Eh692rn3G8-YDrxsopdS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Eh692rn3G8-YDrxsopdS-210" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="NAZIV" vertex="1">
+          <mxGeometry height="40" width="100" x="-140" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
