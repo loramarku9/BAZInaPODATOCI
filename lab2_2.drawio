@@ -301,10 +301,10 @@
           <mxGeometry height="40" width="100" x="490" y="683" as="geometry" />
         </mxCell>
         <mxCell id="1o9XDHNnedWQe8KLNvir-92" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="&lt;u&gt;broj_soba&lt;/u&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="370" y="750" as="geometry" />
+          <mxGeometry height="40" width="100" x="370" y="710" as="geometry" />
         </mxCell>
         <mxCell id="1o9XDHNnedWQe8KLNvir-93" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="broj_kreveti" vertex="1">
-          <mxGeometry height="40" width="100" x="530" y="740" as="geometry" />
+          <mxGeometry height="40" width="100" x="490" y="750" as="geometry" />
         </mxCell>
         <mxCell id="1o9XDHNnedWQe8KLNvir-98" edge="1" parent="1" source="1o9XDHNnedWQe8KLNvir-96" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;defaultLabelBackgroundColor=page;endArrow=none;endFill=0;" target="1o9XDHNnedWQe8KLNvir-91">
           <mxGeometry relative="1" as="geometry" />
